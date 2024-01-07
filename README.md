@@ -1,13 +1,13 @@
-# 32 Fundamental Reactive Systems Interview Questions
+# 32 Common Reactive Systems Interview Questions
 
 <div>
 <p align="center">
-<a href="https://devinterview.io/questions/software-architecture-and-system-design/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fsoftware-architecture-and-system-design-github-img.jpg?alt=media&token=521fd2a9-0d56-49c0-a723-9bd6ca081893" alt="software-architecture-and-system-design" width="100%">
+<a href="https://devinterview.io/questions/web-and-mobile-development/">
+<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
 </a>
 </p>
 
-#### You can also find all 32 answers here 👉 [Devinterview.io - Reactive Systems](https://devinterview.io/questions/software-architecture-and-system-design/reactive-systems-interview-questions)
+#### You can also find all 32 answers here 👉 [Devinterview.io - Reactive Systems](https://devinterview.io/questions/web-and-mobile-development/reactive-systems-interview-questions)
 
 <br>
 
@@ -757,6 +757,8 @@ class BankAccount:
 
 ## 15. Compare _synchronous request-response_ communication with _reactive message-driven_ communication in terms of _scalability_.
 
+Let's discuss the scatter-gather pattern
+
 The **Scatter-Gather** pattern is a common messaging pattern used in reactive systems to improve system efficiency by parallelizing workloads through "scatter" and then consolidating the results through "gather."
 
 This is similar to the divide and conquer approach, where a single, larger task is split into multiple smaller sub-tasks, then processed either concurrently or distributed.
@@ -873,12 +875,12 @@ This example demonstrates a simple scatter-gather pattern using Web Workers in a
 
 
 
-#### Explore all 32 answers here 👉 [Devinterview.io - Reactive Systems](https://devinterview.io/questions/software-architecture-and-system-design/reactive-systems-interview-questions)
+#### Explore all 32 answers here 👉 [Devinterview.io - Reactive Systems](https://devinterview.io/questions/web-and-mobile-development/reactive-systems-interview-questions)
 
 <br>
 
-<a href="https://devinterview.io/questions/software-architecture-and-system-design/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fsoftware-architecture-and-system-design-github-img.jpg?alt=media&token=521fd2a9-0d56-49c0-a723-9bd6ca081893" alt="software-architecture-and-system-design" width="100%">
+<a href="https://devinterview.io/questions/web-and-mobile-development/">
+<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
 </a>
 </p>
 
